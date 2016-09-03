@@ -1,0 +1,10 @@
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\bin\Debug\ipgw_new.exe.config
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\bin\Debug\ipgw_new.exe
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\bin\Debug\ipgw_new.pdb
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\obj\Debug\ipgw_new.ConfigForm.resources
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\obj\Debug\ipgw_new.MainForm.resources
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\obj\Debug\ipgw_new.onClosingForm.resources
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\obj\Debug\ipgw_new.Properties.Resources.resources
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\obj\Debug\ipgw_new.csproj.GenerateResource.Cache
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\obj\Debug\ipgw_new.exe
+F:\document\documents\programming\C#\ipgw_new\ipgw_new\ipgw_new\obj\Debug\ipgw_new.pdb
